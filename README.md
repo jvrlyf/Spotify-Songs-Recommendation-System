@@ -1,4 +1,12 @@
-# Spotify Recommendation System
+<div>
+    <h1 style="font-size: 27px; line-height: 1;">
+        <img src="Spotify-Songs-Recommendation-System/image/image.png" alt="Spotify Logo" style="height: 70px; vertical-align: middle;">
+        Recommendation System 🎧
+    </h1>
+</div>
+
+
+
 
 A content-based recommendation system using Spotify data from 2017–2022.
 
