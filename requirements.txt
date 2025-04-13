@@ -1,0 +1,10 @@
+spotipy
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+plotly
+scikit-learn
+yellowbrick
+termcolor
