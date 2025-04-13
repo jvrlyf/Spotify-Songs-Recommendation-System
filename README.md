@@ -52,7 +52,7 @@ This project is part of my **portfolio**, highlighting my expertise in data scie
 ![Project Banner](image/guide.jpg)
 
 ### 2. Data Collection
-- Collect songs between 2017-2022 (1000 per year).  
+- Collect songs between 2017-2024 (1000 per year).  
 - Key data points:
   - **Song Details**: ID, name, artist name, release date, song link, album image.
   - **Audio Features**:
