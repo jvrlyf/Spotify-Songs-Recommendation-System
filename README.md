@@ -1,8 +1,9 @@
 <div>
-    <h1 style="font-size: 27px; line-height: 1;">
-        <img src="image/image.png" style="height: 70px; vertical-align: middle;">
+    <h1 style="font-size: 47px; line-height: 1; display: flex; align-items: center;">
+        <img src="image/image.png" style="height: 40px; margin-right: 5px;">
         Recommendation System 🎧
     </h1>
+
 </div>
 
 
